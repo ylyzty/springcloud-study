@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/cloud-common-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-common-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka-server-7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka-server-7001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka-server-7002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka-server-7002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-order-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-order-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-order-consul-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-order-consul-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-order-openfeign-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-order-openfeign-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-order-zookeeper-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-order-zookeeper-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-8002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-8003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-8003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-8004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-8004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-consul-8005/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-consul-8005/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

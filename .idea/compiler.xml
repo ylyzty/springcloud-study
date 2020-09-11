@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="payment-consul-8005" />
+        <module name="consumer-order-80" />
+        <module name="payment-8003" />
+        <module name="payment-8002" />
+        <module name="payment-8001" />
+        <module name="consumer-order-openfeign-80" />
+        <module name="payment-8004" />
+        <module name="cloud-eureka-server-7001" />
+        <module name="cloud-eureka-server-7002" />
+        <module name="cloud-eureka-server" />
+        <module name="consumer-order-consul-80" />
+        <module name="cloud-common-api" />
+        <module name="consumer-order-zookeeper-80" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="cloud-eureka-server" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
